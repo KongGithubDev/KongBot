@@ -1,0 +1,45 @@
+# IP Configuration 1
+[IP_CONFIG]
+address=192.168.1.100
+expiration_date=2024-12-31 23:59:59
+name=KongBot1
+name=KongBot2
+name=KongBot3
+name=KongBot4
+name=KongBot5
+name=KongBot6
+name=KongBot7
+name=KongBot8
+name=KongBot9
+name=KongBot10
+spamreconnect=true
+reconnect_delay=5000
+fixedname=1
+version=0.3.7
+szAddr=127.0.0.1
+iPort=6900
+szNickname=KongBot
+
+# IP Configuration 2
+[IP_CONFIG]
+address=192.168.1.200
+expiration_date=2024-06-30 23:59:59
+name=KongBotA
+name=KongBotB
+name=KongBotC
+name=KongBotD
+name=KongBotE
+name=KongBotF
+name=KongBotG
+name=KongBotH
+name=KongBotI
+name=KongBotJ
+name=KongBotK
+name=KongBotL
+spamreconnect=true
+reconnect_delay=3000
+fixedname=1
+version=0.3.DL
+szAddr=127.0.0.1
+iPort=7777
+szNickname=KongBotDL 
